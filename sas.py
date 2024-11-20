@@ -1,5 +1,8 @@
-class Comp:
+class Animals():
     def __init__(self, name):
         self.name = name
-q=Comp9=("dadu")
-print(q)
+    def live(Animals):
+        return f"{self.name} living"
+
+q=Animals("dadu")
+print(q.live)

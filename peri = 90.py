@@ -1,2 +1,2 @@
-peri = 900
+peri = 90
 print(int(peri))

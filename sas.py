@@ -4,5 +4,5 @@ class Animals():
     def live(Animals):
         return f"{self.name} living"
 
-q=Animals("daduu")
+q=Animals("taduu")
 print(q.live)
